@@ -1,0 +1,7 @@
+{
+  "name": "replivio-memselon-stats-host",
+  "private": true,
+  "scripts": {
+    "build": "node assemble.mjs"
+  }
+}
